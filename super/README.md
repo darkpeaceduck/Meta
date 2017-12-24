@@ -6,9 +6,15 @@ $ runTestSuite [VERBOSE]
 ```
 ### Verbose levels
 
-0 - Pretty with subst 
-1 - Pretty without subst + 0 level
-2 - (show expr) + 1 level
+
+
+
+0.	Pretty with subst 
+1.	Pretty without subst + 0 level
+2.	(show expr) + 1 level
+
+
+
 
 ### Таблица
 
