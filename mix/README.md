@@ -88,3 +88,7 @@ PyPy, or the RPython toolchain in the next section.
 ### Want we want
 
 We want implement `mix` for FlowChart Language 
+
+### Results
+
+See `test.rkt` for futumura(1,2,3) projections testing
